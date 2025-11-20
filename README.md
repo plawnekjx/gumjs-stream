@@ -1,3 +1,3 @@
-# @frida/stream
+# @plawnekjx/stream
 
-Node.js's stream module for Frida.
+Node.js's stream module for Plawnekjx.
